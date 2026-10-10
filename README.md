@@ -4,11 +4,10 @@
 <br>
 
 - 🌍 **8 years** in Environmental & Social Impact Assessment (ESIA), Due Diligence (ESDD / ESG DD), and climate advisory across Asia-Pacific
-- 🧪 Co-authoring a review on **polymer-based catalysts for converting CO₂ into cyclic organic carbonates** (*Journal of CO₂ Utilization*, under revision)
 - 🌱 I'm currently learning **R** and how to combine it with **QGIS** to explore and map climate questions
 - 👯 I'm looking to collaborate on climate risk, GHG accounting, ESG, and renewable energy projects
 - 🎓 MSc Sustainable Development (University of Warsaw) · MEng Water & Environmental Engineering (Nagasaki University) · BEng Environmental Engineering (HCMUT)
-- ⚡ Fun fact: I've lived and worked in Vietnam, Japan, and Poland, and I speak Vietnamese, English, and a little Japanese
+- ⚡ Fact: I've lived and worked in Vietnam, Japan, and Poland, and I speak Vietnamese, English, and a little Japanese. 
 
 <br>
 
@@ -24,10 +23,24 @@
 
 ### Languages and Tools
 
-[![Tools](https://skillicons.dev/icons?i=r,autocad,git,github,md)](https://skillicons.dev)
+[<img align="left" alt="R" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />](https://www.r-project.org/)
+[<img align="left" alt="RStudio" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />](https://posit.co/products/open-source/rstudio/)
+[<img align="left" alt="QGIS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" />](https://qgis.org/)
+[<img align="left" alt="AutoCAD" width="36px" src="https://skillicons.dev/icons?i=autocad" />](https://www.autodesk.com/products/autocad)
+[<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/)
+[<img align="left" alt="Markdown" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />](https://www.markdownguide.org/)
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?logo=qgis&logoColor=white)
+<br clear="left" />
+<br />
+
 ![WindPro](https://img.shields.io/badge/WindPro-0A6EBD)
+
+---
+
+## GitHub Stats
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=Trucpham512&theme=default&hide_border=false" alt="Truc's GitHub streak" /></a>
 
 ### Areas of Expertise
 
