@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning **R** and how to combine it with **QGIS** to explore and map climate questions
 - 👯 I'm looking to collaborate on climate risk, GHG accounting, ESG, and renewable energy projects
 - 🎓 MSc Sustainable Development (University of Warsaw) · MEng Water & Environmental Engineering (Nagasaki University) · BEng Environmental Engineering (HCMUT)
-- ⚡ Fact: I've lived and worked in Vietnam, Japan, and Poland, and I speak Vietnamese, English, and a little Japanese. 
+- ⚡ Fact: I've lived and worked in Vietnam, Japan, and Poland, and I speak Vietnamese, English, and a little Japanese and Polish. 
 
 <br>
 
